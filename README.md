@@ -118,4 +118,14 @@ As MindOps matures, the following enterprise capabilities are slated for develop
 
 ## 🛡️ License & Disclaimer
 This project was developed as a Capstone Engineering prototype. **Use caution when attaching live AWS/Azure credentials.** The authors are not responsible for unintended cloud provider billing charges resulting from the use of this platform.
-```
+
+---
+
+## 👥 The Engineering Team
+
+MindOps was architected and developed as a Engineering Project by:
+
+* **Thiruppathi R** – Lead Cloud Solutions Architect (Multi-Cloud State Machine & SDKs)
+* **Devasri S P** – Frontend & UX Architect (Next.js Client & Async Polling)
+* **Rishikesh R** – Security & Zero-Trust Architect (AES-256 Vault & API Shielding)
+* **Mohammed Nadheer** – AI & Prompt Engineer (LLM Guardrails & FinOps Estimation)
